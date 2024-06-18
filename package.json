@@ -126,7 +126,7 @@
     "npm-license": "^0.3.3",
     "nyc": "^15.0.1",
     "proxyquire": "^2.0.1",
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^22.6.4",
     "recast": "^0.20.4",
     "regenerator-runtime": "^0.13.2",
     "shelljs": "^0.8.2",
